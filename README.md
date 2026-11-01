@@ -81,10 +81,10 @@ How I set priority and decide to escalate: [triage-guide.md](triage-guide.md)
 | ![Reply vs internal note](screenshots/reply-vs-internal-note.png) | ![End of shift](screenshots/queue-end-of-shift.png) |
 | Customer reply and internal note on one ticket | End of shift: only the 3 escalated tickets remain open |
 
-## What I'd point out in an interview
+## Key takeaways
 
 - **Replies vs. internal notes.** Replies are plain language for the user; internal notes are for the next technician. Mixing them up leaks internal details.
-- **One clarifying question first.** "Is it just you, or others too?" is what separated a one-user P2 (S: drive missing) from a team-wide P1 outage on the same drive.
+- **One clarifying question first.** "Is it just you, or others too?" separated a one-user P2 (S: drive missing) from a team-wide P1 outage on the same drive.
 - **Escalation is a handoff, not a close.** Escalated tickets stay open with what was reported, checked and ruled out, so the next team doesn't start over.
 - **Approvals before spending or access.** Hardware, paid software and access changes waited for manager approval, recorded on the ticket.
 - **Owning a missed SLA.** The deliberate P1 breach is documented with cause and prevention.
